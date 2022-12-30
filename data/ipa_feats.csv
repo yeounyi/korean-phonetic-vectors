@@ -1,0 +1,56 @@
+ipa,features
+p0,blb stp pln vcd
+ph,blb stp asp
+pp,blb stp tns
+t0,alv stp pln vcd
+th,alv stp asp
+tt,alv stp tns
+k0,vlr stp pln vcd
+kh,vlr stp asp
+kk,vlr stp tns
+s0,alv frc pln
+ss,alv frc tns
+h0,glt frc pln
+c0,plt stp pln vcd
+ch,plt stp asp
+cc,plt stp tns
+mm,blb nsl vcd
+nn,alv nsl vcd
+rr,alv lqd vcd
+pf,blb stp pln vcd
+ph,blb stp asp
+tf,alv stp pln vcd
+th,alv stp asp
+kf,vlr stp pln vcd
+kh,vlr stp tns
+kk,vlr stp tns
+s0,alv frc pln
+ss,alv frc tns
+h0,glt frc pln
+c0,plt stp pln vcd
+ch,plt stp asp
+mf,blb nsl vcd
+nf,alv nsl vcd
+ng,vlr nsl vcd
+ll,alv lqd vcd
+ii,fnt unr hgh vwl
+ee,fnt unr umd vwl
+qq,fnt unr lmd vwl
+aa,cnt unr low vwl
+xx,bck unr hgh vwl
+vv,bck unr lmd vwl
+uu,bck rnd hgh vwl
+oo,bck rnd umd vwl
+ye,plt fnt unr umd vwl
+yq,plt fnt unr lmd vwl
+ya,plt cnt unr low vwl
+yv,plt bck unr lmd vwl
+yu,plt bck rnd hgh vwl
+yo,plt bck rnd umd vwl
+wi,blb fnt rnd hgh vwl
+wo,blb bck rnd umd vwl
+wq,blb fnt rnd lmd vwl
+we,blb fnt rnd umd vwl
+wa,blb cnt rnd low vwl
+wv,blb bck rnd lmd vwl
+xi,bck unr hgh fnt vwl
