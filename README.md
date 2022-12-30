@@ -24,6 +24,9 @@
 <img src="https://github.com/yeounyi/korean-phonetic-vectors/blob/main/data/example.png?raw=true">
 <br>
 
+## Korean IPA to phonetic features with descriptions
+https://docs.google.com/spreadsheets/d/1Gzz2SS9sV59DgZlvH_HA2Qh4hFiTKThLOam5nuuhRdw/edit?usp=sharing
+
 ## References 
 * https://github.com/aparrish/phonetic-similarity-vectors
 * https://github.com/scarletcho/KoG2P
